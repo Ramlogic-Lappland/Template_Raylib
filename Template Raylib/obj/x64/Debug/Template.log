@@ -1,0 +1,56 @@
+﻿Credits.obj : error LNK2019: unresolved external symbol SetWindowTitle referenced in function "void __cdecl CreditsNmsp::InitCredits(void)" (?InitCredits@CreditsNmsp@@YAXXZ)
+Credits.obj : error LNK2019: unresolved external symbol SetWindowSize referenced in function "void __cdecl CreditsNmsp::InitCredits(void)" (?InitCredits@CreditsNmsp@@YAXXZ)
+Credits.obj : error LNK2019: unresolved external symbol ClearBackground referenced in function "void __cdecl CreditsNmsp::DrawCredits(void)" (?DrawCredits@CreditsNmsp@@YAXXZ)
+Instructions.obj : error LNK2001: unresolved external symbol ClearBackground
+Menu.obj : error LNK2001: unresolved external symbol ClearBackground
+Options.obj : error LNK2001: unresolved external symbol ClearBackground
+Options.obj : error LNK2001: unresolved external symbol BeginDrawing
+Credits.obj : error LNK2001: unresolved external symbol BeginDrawing
+Game.obj : error LNK2001: unresolved external symbol BeginDrawing
+Instructions.obj : error LNK2001: unresolved external symbol BeginDrawing
+Menu.obj : error LNK2001: unresolved external symbol BeginDrawing
+Options.obj : error LNK2001: unresolved external symbol EndDrawing
+Credits.obj : error LNK2001: unresolved external symbol EndDrawing
+Game.obj : error LNK2001: unresolved external symbol EndDrawing
+Instructions.obj : error LNK2001: unresolved external symbol EndDrawing
+Menu.obj : error LNK2001: unresolved external symbol EndDrawing
+Credits.obj : error LNK2019: unresolved external symbol OpenURL referenced in function "public: void __cdecl Button::NewCreditButton::openUrl(void)" (?openUrl@NewCreditButton@Button@@QEAAXXZ)
+Credits.obj : error LNK2019: unresolved external symbol IsMouseButtonDown referenced in function "void __cdecl CreditsNmsp::UpdateCredits(void)" (?UpdateCredits@CreditsNmsp@@YAXXZ)
+Menu.obj : error LNK2001: unresolved external symbol IsMouseButtonDown
+Credits.obj : error LNK2019: unresolved external symbol IsMouseButtonReleased referenced in function "void __cdecl CreditsNmsp::UpdateCredits(void)" (?UpdateCredits@CreditsNmsp@@YAXXZ)
+Menu.obj : error LNK2001: unresolved external symbol IsMouseButtonReleased
+Credits.obj : error LNK2019: unresolved external symbol GetMousePosition referenced in function "void __cdecl CreditsNmsp::UpdateCredits(void)" (?UpdateCredits@CreditsNmsp@@YAXXZ)
+Menu.obj : error LNK2001: unresolved external symbol GetMousePosition
+Credits.obj : error LNK2019: unresolved external symbol DrawRectangleRec referenced in function "void __cdecl CreditsNmsp::DrawCredits(void)" (?DrawCredits@CreditsNmsp@@YAXXZ)
+Credits.obj : error LNK2019: unresolved external symbol DrawRectangleLinesEx referenced in function "void __cdecl CreditsNmsp::DrawCredits(void)" (?DrawCredits@CreditsNmsp@@YAXXZ)
+Credits.obj : error LNK2019: unresolved external symbol CheckCollisionPointRec referenced in function "void __cdecl CreditsNmsp::UpdateCredits(void)" (?UpdateCredits@CreditsNmsp@@YAXXZ)
+Menu.obj : error LNK2001: unresolved external symbol CheckCollisionPointRec
+Credits.obj : error LNK2019: unresolved external symbol LoadImage referenced in function "void __cdecl CreditsNmsp::InitCredits(void)" (?InitCredits@CreditsNmsp@@YAXXZ)
+Menu.obj : error LNK2001: unresolved external symbol LoadImage
+Credits.obj : error LNK2019: unresolved external symbol UnloadImage referenced in function "void __cdecl CreditsNmsp::InitCredits(void)" (?InitCredits@CreditsNmsp@@YAXXZ)
+Menu.obj : error LNK2001: unresolved external symbol UnloadImage
+Credits.obj : error LNK2019: unresolved external symbol ImageResize referenced in function "void __cdecl CreditsNmsp::InitCredits(void)" (?InitCredits@CreditsNmsp@@YAXXZ)
+Menu.obj : error LNK2001: unresolved external symbol ImageResize
+Credits.obj : error LNK2019: unresolved external symbol LoadTexture referenced in function "void __cdecl CreditsNmsp::InitCredits(void)" (?InitCredits@CreditsNmsp@@YAXXZ)
+Menu.obj : error LNK2001: unresolved external symbol LoadTexture
+Credits.obj : error LNK2019: unresolved external symbol LoadTextureFromImage referenced in function "void __cdecl CreditsNmsp::InitCredits(void)" (?InitCredits@CreditsNmsp@@YAXXZ)
+Menu.obj : error LNK2001: unresolved external symbol LoadTextureFromImage
+Credits.obj : error LNK2019: unresolved external symbol UnloadTexture referenced in function "void __cdecl CreditsNmsp::UnloadCredits(void)" (?UnloadCredits@CreditsNmsp@@YAXXZ)
+Menu.obj : error LNK2001: unresolved external symbol UnloadTexture
+Credits.obj : error LNK2019: unresolved external symbol DrawTexture referenced in function "void __cdecl CreditsNmsp::DrawCredits(void)" (?DrawCredits@CreditsNmsp@@YAXXZ)
+Credits.obj : error LNK2019: unresolved external symbol DrawTextureRec referenced in function "void __cdecl CreditsNmsp::DrawCredits(void)" (?DrawCredits@CreditsNmsp@@YAXXZ)
+Menu.obj : error LNK2001: unresolved external symbol DrawTextureRec
+Credits.obj : error LNK2019: unresolved external symbol GetColor referenced in function "void __cdecl CreditsNmsp::DrawCredits(void)" (?DrawCredits@CreditsNmsp@@YAXXZ)
+Instructions.obj : error LNK2001: unresolved external symbol GetColor
+Menu.obj : error LNK2001: unresolved external symbol GetColor
+Options.obj : error LNK2001: unresolved external symbol GetColor
+Credits.obj : error LNK2019: unresolved external symbol DrawText referenced in function "void __cdecl CreditsNmsp::DrawCredits(void)" (?DrawCredits@CreditsNmsp@@YAXXZ)
+Menu.obj : error LNK2001: unresolved external symbol DrawText
+Credits.obj : error LNK2019: unresolved external symbol MeasureText referenced in function "void __cdecl CreditsNmsp::DrawCredits(void)" (?DrawCredits@CreditsNmsp@@YAXXZ)
+Menu.obj : error LNK2001: unresolved external symbol MeasureText
+Menu.obj : error LNK2019: unresolved external symbol InitWindow referenced in function "void __cdecl Menu::InitMenu(void)" (?InitMenu@Menu@@YAXXZ)
+Menu.obj : error LNK2019: unresolved external symbol DrawTextureEx referenced in function "void __cdecl Menu::DrawMenu(void)" (?DrawMenu@Menu@@YAXXZ)
+ScreenManager.obj : error LNK2019: unresolved external symbol WindowShouldClose referenced in function "int __cdecl ScreenManagerNam::ScreenManager(void)" (?ScreenManager@ScreenManagerNam@@YAHXZ)
+ScreenManager.obj : error LNK2019: unresolved external symbol SetTargetFPS referenced in function "int __cdecl ScreenManagerNam::ScreenManager(void)" (?ScreenManager@ScreenManagerNam@@YAHXZ)
+C:\Users\Goat\Desktop\IMAGE 2024\Template\Template Raylib\libs\raylib-4.0.0_win32\lib\raylib.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Goat\Desktop\IMAGE 2024\Template\Template Raylib\bin\x64\Debug\Template.exe : fatal error LNK1120: 27 unresolved externals

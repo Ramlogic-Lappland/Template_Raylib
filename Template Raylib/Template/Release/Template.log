@@ -1,0 +1,31 @@
+﻿  Credits.cpp
+C:\Users\Goat\Desktop\IMAGE 2024\Template\Template Raylib\Template\Credits.cpp(31,141): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Goat\Desktop\IMAGE 2024\Template\Template Raylib\Template\Credits.cpp(31,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Goat\Desktop\IMAGE 2024\Template\Template Raylib\Template\Credits.cpp(31,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Goat\Desktop\IMAGE 2024\Template\Template Raylib\Template\Credits.cpp(34,141): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Goat\Desktop\IMAGE 2024\Template\Template Raylib\Template\Credits.cpp(34,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Goat\Desktop\IMAGE 2024\Template\Template Raylib\Template\Credits.cpp(34,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Goat\Desktop\IMAGE 2024\Template\Template Raylib\Template\Credits.cpp(123,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Goat\Desktop\IMAGE 2024\Template\Template Raylib\Template\Credits.cpp(123,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Goat\Desktop\IMAGE 2024\Template\Template Raylib\Template\Credits.cpp(131,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Goat\Desktop\IMAGE 2024\Template\Template Raylib\Template\Credits.cpp(135,94): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+  Instructions.cpp
+  Main.cpp
+C:\Users\Goat\Desktop\IMAGE 2024\Template\Template Raylib\Template\Main.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Menu.cpp
+  Options.cpp
+  Player.cpp
+  ScreenManager.cpp
+  Unloader.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 40 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+raylib.lib(rcore.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rcore.obj)' or at 'C:\Users\Goat\Desktop\IMAGE 2024\Template\Template Raylib\Release\raylib.pdb'; linking object as if no debug info
+raylib.lib(rglfw.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rglfw.obj)' or at 'C:\Users\Goat\Desktop\IMAGE 2024\Template\Template Raylib\Release\raylib.pdb'; linking object as if no debug info
+raylib.lib(rshapes.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rshapes.obj)' or at 'C:\Users\Goat\Desktop\IMAGE 2024\Template\Template Raylib\Release\raylib.pdb'; linking object as if no debug info
+raylib.lib(rtext.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rtext.obj)' or at 'C:\Users\Goat\Desktop\IMAGE 2024\Template\Template Raylib\Release\raylib.pdb'; linking object as if no debug info
+raylib.lib(rtextures.obj) : warning LNK4099: PDB '' was not found with 'raylib.lib(rtextures.obj)' or at ''; linking object as if no debug info
+raylib.lib(utils.obj) : warning LNK4099: PDB '' was not found with 'raylib.lib(utils.obj)' or at ''; linking object as if no debug info
+  Template.vcxproj -> C:\Users\Goat\Desktop\IMAGE 2024\Template\Template Raylib\Release\Template.exe

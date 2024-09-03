@@ -1,0 +1,51 @@
+Usar sigil
+MSVC ver. for visual studio
+http://www.libsigil.com/
+http://www.libsigil.com/docs/SIGIL_API.pdf
+
+Modificar botones de struct a clase ej:
+
+-----------------------------------------------------------------
+
+if (CheckCollisionPointRec(mousePoint, returnBttn.Bounds)) //Checks state of the RETURN BTTN
+{
+   bttnStateCall();
+}  // si detecta colision llama a statecall que manejael color del boton
+
+bttn.color bttnStateCall (mousePoint)
+{
+   private: void BttnActiv(); // si durante la colision se detecto un click llama a la funcion privada bttnActiv que abre la url
+}
+
+void bttnActiv() 
+{
+  openUrl;
+}
+
+------------------------------------------
+
+ DrawRectangleLinesEx(lib.Bounds, lib.frame, BLACK);
+
+puede ser remplazado por: 
+
+lib.DrawRec();
+
+class bttn 
+{
+  
+public:
+DrawRec(bounds, frame, BLACK)
+{
+ DrawRectangleLinesEx(lib.Bounds, lib.frame, BLACK);
+}
+
+}
+
+---------------------------------
+
+eventos de compilacion
+eventos pos compilacion
+
+copy /y "$(SolutionDir)lib\sigil-vc2015-0.90\sigil-vc2015\glew32.dll" "$(OutDir)"
+
+
